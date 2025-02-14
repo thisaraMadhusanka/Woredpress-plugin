@@ -1,15 +1,15 @@
 {
-    "name": "Your Plugin Name",
-    "slug": "your-plugin-slug",
+    "name": "advanced-crud",
+    "slug": "advanced-crud",
     "version": "3.0.0",
-    "author": "Your Name",
+    "author": "Thisara Madhusanka",
     "homepage": "https://github.com/thisaraMadhusanka/Woredpress-plugin",
     "requires": "5.0",
     "tested": "6.5",
-    "last_updated": "2023-10-01",
+    "last_updated": "2025-02-14",
     "sections": {
         "description": "A brief description of your plugin.",
         "changelog": "<h4>1.0.0</h4><ul><li>Initial release.</li></ul>"
     },
-    "download_link": "https://github.com/thisaraMadhusanka/Woredpress-plugin/blob/5d875551d1f1899efa2c5d0e6a15f2b110bbdf6f/ADCURDNEW.zip"
+    "download_link": "https://github.com/thisaraMadhusanka/Woredpress-plugin/releases/download/Adcurd/ADCURDNEW.zip"
 }
