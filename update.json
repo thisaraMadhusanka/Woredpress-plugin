@@ -1,6 +1,6 @@
 {
     "name": "Advanced CRUD",
-    "slug": "ADCURD",
+    "slug": "advanced-crud",
     "version": "3.0.0",
     "author": "Thisara Madhusanka",
     "homepage": "https://github.com/thisaraMadhusanka/Woredpress-plugin",
@@ -8,8 +8,8 @@
     "tested": "6.5",
     "last_updated": "2025-02-10",
     "sections": {
-        "description": "A brief description of your plugin.",
-        "changelog": "<h4>3.0.0</h4><ul><li>Added new features.</li></ul>"
+        "description": "A plugin for managing CRUD operations with advanced features.",
+        "changelog": "<h4>3.0.0</h4><ul><li>Added update functionality</li></ul>"
     },
-    "download_link": "https://github.com/thisaraMadhusanka/Woredpress-plugin/releases/download/v3.0.0/ADCURDNEW.zip"
+    "download_url": "https://github.com/thisaraMadhusanka/Woredpress-plugin/releases/download/v3.0.0/advanced-crud.zip"
 }
