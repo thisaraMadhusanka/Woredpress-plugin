@@ -1,0 +1,15 @@
+{
+    "name": "Your Plugin Name",
+    "slug": "your-plugin-slug",
+    "version": "3.0.0",
+    "author": "Your Name",
+    "homepage": "https://github.com/thisaraMadhusanka/Woredpress-plugin",
+    "requires": "5.0",
+    "tested": "6.5",
+    "last_updated": "2023-10-01",
+    "sections": {
+        "description": "A brief description of your plugin.",
+        "changelog": "<h4>1.0.0</h4><ul><li>Initial release.</li></ul>"
+    },
+    "download_link": "https://github.com/thisaraMadhusanka/Woredpress-plugin/blob/e89c7c301140a10a2f2413ff9880407ec09aeaf4/ADCURD.zip"
+}
