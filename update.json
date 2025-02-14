@@ -6,7 +6,7 @@
     "homepage": "https://github.com/thisaraMadhusanka/Woredpress-plugin",
     "requires": "5.0",
     "tested": "6.5",
-    "last_updated": "2025-02-14",
+    "last_updated": "2025-02-10",
     "sections": {
         "description": "A brief description of your plugin.",
         "changelog": "<h4>1.0.0</h4><ul><li>Initial release.</li></ul>"
